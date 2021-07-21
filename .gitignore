@@ -1,0 +1,14 @@
+*venv/
+.idea/
+.env
+*.ini
+*.cfg
+*.session
+*.json
+*/__pycache__/
+*.code-workspace
+*.cache
+*.cache_spoty_token
+*.vscode/
+*.session-journal
+*.pyc

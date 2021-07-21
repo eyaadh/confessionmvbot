@@ -1,0 +1,7 @@
+[pyrogram]
+api_id =
+api_hash =
+[bot]
+token =
+admin_group = -1001258360705
+dest_chan = -1001179151275
