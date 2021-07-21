@@ -1,4 +1,4 @@
-# mvrequestconfesbot:
+# confessionmvbot:
 A telegram bot intended for confession channels, the users confess to the bot and for approval the bot forwards the confessions to a group which contains admins for the channel - so that they can review the confession and post it to the channel accordingly.
 
 ## Cloning and Run:
